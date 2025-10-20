@@ -6,7 +6,12 @@ This Streamlit app predicts whether a person is diabetic based on health metrics
 - Clean UI with form inputs
 - Machine learning model (Random Forest)
 - Live prediction
+- Model accuracy and performance metrics
+- Feature importance chart
 - Deployed on Streamlit Cloud
+
+## 📍 Live Demo
+👉 [Click here to try the app](https://diabetes-predictor-wnt7kgdnwlxeudbhzd27qs.streamlit.app/)
 
 ## 📦 Dataset
 [Pima Indians Diabetes Dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv)
@@ -15,6 +20,8 @@ This Streamlit app predicts whether a person is diabetic based on health metrics
 - Python
 - Pandas, Scikit-learn
 - Streamlit
+- Matplotlib, Seaborn
 
-## 📍 Live Demo
-[Click here to try the app](https://share.streamlit.io/Akshaya-0406/diabetes-predictor/main/diabetes_app.py) <!-- Update this link after deployment -->
+## 👩‍💻 Author
+Akshaya-0406
+
